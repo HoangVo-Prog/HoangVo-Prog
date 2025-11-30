@@ -1,22 +1,27 @@
-# 🌸 Kon'nichiwa! I'm Hoang Vo 🌸
+# Hoang Vo — Research Assistant in AI
 
-AI researcher • Deep Learning enjoyer • Anime-coded productivity ☕💻
+## 🎓 About
+Research Assistant at AISIA Lab (Vietnam). Focus areas include deep learning, natural language processing, and multimodal AI systems.
 
-## ✨ About Me
-- 🔭 Research Assistant @ AISIA Lab  
-- 🌱 Learning LLMs, multimodal AI, and MLOps  
-- 🎯 Goal: Become a top-tier AI researcher  
-- 🍥 Fun fact: I debug code with anime music  
+## 📄 Research Interests
+- Representation Learning  
+- LLMs and Efficient Fine-tuning  
+- Vision-Language Models  
+- MLOps & Model Deployment  
 
-## 🌸 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=HoangVo-Prog&show_icons=true&theme=synthwave)
-![Streak](https://streak-stats.demolab.com?user=HoangVo-Prog&theme=synthwave)
+## 📊 GitHub Metrics
+![Stats](https://github-readme-stats.vercel.app/api?username=HoangVo-Prog&show_icons=true&theme=default)
+![Streak](https://streak-stats.demolab.com?user=HoangVo-Prog&theme=default)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangVo-Prog&layout=compact&theme=default)
 
-## 🌈 Top Languages
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangVo-Prog&layout=compact&theme=synthwave)
+## 📈 Activity Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangVo-Prog&theme=github)
 
-## 🐍 Contribution Snake
-![Snake](https://raw.githubusercontent.com/HoangVo-Prog/HoangVo-Prog/output/github-contribution-grid-snake.svg)
+## 📜 Notable Projects
+- Transformer-from-Scratch  
+- Bahdanau Attention  
+- Luong Attention  
 
-## 🎀 Connect!
-[LinkedIn](https://www.linkedin.com/in/v%C3%B5-ho%C3%A0ng/)
+## 📫 Contact
+📧 Email: vohoang2204@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/v%C3%B5-ho%C3%A0ng/

@@ -1,20 +1,22 @@
-# ⚡ Hey, I'm Hoang Vo ⚡
+# 🌸 Kon'nichiwa! I'm Hoang Vo 🌸
 
-## 🚀 AI Researcher | Deep Learning | LLMs | Multimodal AI
+AI researcher • Deep Learning enjoyer • Anime-coded productivity ☕💻
 
-## 🔥 GitHub Analytics (Neon)
-![Stats](https://github-readme-stats.vercel.app/api?username=HoangVo-Prog&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=HoangVo-Prog&theme=tokyonight)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangVo-Prog&theme=tokyo-night)
+## ✨ About Me
+- 🔭 Research Assistant @ AISIA Lab  
+- 🌱 Learning LLMs, multimodal AI, and MLOps  
+- 🎯 Goal: Become a top-tier AI researcher  
+- 🍥 Fun fact: I debug code with anime music  
 
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=HoangVo-Prog&theme=dracula&no-bg=true&no-frame=true)
+## 🌸 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=HoangVo-Prog&show_icons=true&theme=synthwave)
+![Streak](https://streak-stats.demolab.com?user=HoangVo-Prog&theme=synthwave)
 
-## 🔧 Skills
-**ML:** PyTorch, TensorFlow, HuggingFace  
-**DevOps:** Docker, AWS, Git  
-**System:** Ubuntu, Linux  
-**Languages:** Python, C++, Java  
+## 🌈 Top Languages
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangVo-Prog&layout=compact&theme=synthwave)
 
-## 🌐 Connect
+## 🐍 Contribution Snake
+![Snake](https://raw.githubusercontent.com/HoangVo-Prog/HoangVo-Prog/output/github-contribution-grid-snake.svg)
+
+## 🎀 Connect!
 [LinkedIn](https://www.linkedin.com/in/v%C3%B5-ho%C3%A0ng/)

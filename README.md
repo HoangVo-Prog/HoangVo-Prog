@@ -9,15 +9,16 @@ Research Assistant at AISIA Lab (Vietnam). Focus areas include deep learning, na
 - Vision-Language Models  
 - MLOps & Model Deployment  
 
-## 📈 GitHub Stats
-![Hoang's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HoangVo-Prog&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HoangVo-Prog&layout=compact&theme=default)
+## 📊 GitHub Overview
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=HoangVo-Prog&theme=default)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoangVo-Prog&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoangVo-Prog&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HoangVo-Prog&theme=github)
+
 ## 📈 Activity Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangVo-Prog&theme=github)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangVo-Prog&theme=github)
 
 ## 📜 Notable Projects
 - Transformer-from-Scratch  

@@ -9,10 +9,12 @@ Research Assistant at AISIA Lab (Vietnam). Focus areas include deep learning, na
 - Vision-Language Models  
 - MLOps & Model Deployment  
 
-## 📊 GitHub Metrics
-![Stats](https://github-readme-stats.vercel.app/api?username=HoangVo-Prog&show_icons=true&theme=default)
-![Streak](https://streak-stats.demolab.com?user=HoangVo-Prog&theme=default)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangVo-Prog&layout=compact&theme=default)
+## 📈 GitHub Stats
+![Hoang's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HoangVo-Prog&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HoangVo-Prog&layout=compact&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HoangVo-Prog&theme=default)
 
 ## 📈 Activity Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangVo-Prog&theme=github)

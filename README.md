@@ -7,7 +7,7 @@ Research Assistant at AISIA Lab (Vietnam). Focus areas include deep learning, na
 - Representation Learning  
 - LLMs and Efficient Fine-tuning  
 - Vision-Language Models  
-- MLOps & Model Deployment  
+- Text-based Person Search  
 
 ## 📊 GitHub Overview
 

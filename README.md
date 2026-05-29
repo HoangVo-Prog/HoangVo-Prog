@@ -1,30 +1,26 @@
 # Hoang Vo — Research Assistant in AI
 
-## 🎓 About
-Research Assistant at AISIA Lab (Vietnam). Focus areas include deep learning, natural language processing, and multimodal AI systems.
+## About
+- Data Science student at **VNUHCM - University of Science**
+- Research Assistant at **AISIA Lab** and **GenAI4E Lab**.
 
-## 📄 Research Interests
-- Representation Learning  
-- LLMs and Efficient Fine-tuning  
-- Vision-Language Models  
+## Research Interests
 - Text-based Person Search  
+- Reasoning LLMs 
+- Representation Learning
+- LLMs Fine-tuning  
+- Vision-Language Models  
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=HoangVo-Prog&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoangVo-Prog&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoangVo-Prog&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HoangVo-Prog&theme=github)
-
-## 📈 Activity Graph
+## Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangVo-Prog&theme=github)
 
-## 📜 Notable Projects
-- Transformer-from-Scratch  
-- Bahdanau Attention  
-- Luong Attention  
+## Contact
+📧 [Email](vohoang2204@gmail.com)  
 
-## 📫 Contact
-📧 Email: vohoang2204@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/v%C3%B5-ho%C3%A0ng/
+🔗 [LinkedIn](https://www.linkedin.com/in/v%C3%B5-ho%C3%A0ng/)
+
+📄 [Google scholar](https://scholar.google.com/citations?user=QwyzuxQAAAAJ&hl=en)
